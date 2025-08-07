@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c385c069-5f18-4a95-977e-bba5e088173d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../category.service/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category.service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category.service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category.service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category.service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category.service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category.service/src/main/java/com/salon/category/service/CategoryServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category.service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category.service/src/test/java/com/salon/category/service/CategoryServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salon.service/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salon.service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salon.service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salon.service/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salon.service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salon.service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salon.service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salon.service/src/main/java/com/salon/salon/service/SalonServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salon.service/src/main/java/com/salon/salon/service/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salon.service/src/main/java/com/salon/salon/service/controller/SalonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salon.service/src/main/java/com/salon/salon/service/dto/SalonDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salon.service/src/main/java/com/salon/salon/service/dto/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salon.service/src/main/java/com/salon/salon/service/mapper/SalonMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salon.service/src/main/java/com/salon/salon/service/modal/Salon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salon.service/src/main/java/com/salon/salon/service/repository/SalonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salon.service/src/main/java/com/salon/salon/service/service/SalonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salon.service/src/main/java/com/salon/salon/service/service/impl/SalonServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salon.service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salon.service/src/test/java/com/salon/salon/service/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/salon/user/service/UserServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/salon/user/service/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/salon/user/service/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/salon/user/service/exception/UserException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/salon/user/service/modal/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/salon/user/service/payload/response/ExceptionResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/salon/user/service/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/salon/user/service/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/salon/user/service/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/salon/user/service/UserServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/salon/user/service/UserServiceApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/salon/user/service/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/salon/user/service/exception/GlobalExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/salon/user/service/exception/UserException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/salon/user/service/modal/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/salon/user/service/payload/response/ExceptionResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/salon/user/service/repository/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/salon/user/service/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/salon/user/service/service/impl/UserServiceImpl.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="30P4c5UFtSoO4QN7nVbnOQyDAvp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.UserServiceApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="user.service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.salon.user.service.UserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.27812.49" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.27812.49" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c385c069-5f18-4a95-977e-bba5e088173d" name="Changes" comment="" />
+      <created>1753515953051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753515953051</updated>
+      <workItem from="1753515959532" duration="144000" />
+      <workItem from="1753547041008" duration="700000" />
+      <workItem from="1753966749331" duration="1151000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
